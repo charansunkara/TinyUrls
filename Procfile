@@ -1,0 +1,1 @@
+web: node Tinyurl.js
