@@ -1,5 +1,5 @@
 {
-  "name": "Tiny URLs",
+  "name": "TinyUrls",
   "version": "0.0.1",
   "description": "URL Shortener App developed using Node.js",
   "main": "Tinyurl.js",
@@ -9,6 +9,9 @@
   "engines": {
     "node": "0.12.x",
     "npm": "2.1.x"
+  },
+  "dependencies": {
+    "pg": "4.x"
   },
   "repository": {
     "type": "git",
